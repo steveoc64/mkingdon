@@ -1,0 +1,19 @@
+{
+  "name": "mkingdon",
+  "homepage": "https://github.com/steveoc64/mkingdon",
+  "authors": [
+    "SteveOC64 <steveoc64@gmail.com>"
+  ],
+  "description": "Marlene Kingdon artist profile",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
