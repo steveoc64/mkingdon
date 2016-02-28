@@ -4,3 +4,7 @@ mkingdon
 app.js
 *.map
 bower_components
+Ink*
+ink
+index-uikit.html
+style.less

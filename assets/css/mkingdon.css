@@ -1331,7 +1331,7 @@ ul.uk-nav-sub {
   text-shadow: 0 -1px 0 #ffffff;
 }
 .uk-nav-side > li.uk-active > a {
-  background: #3e5e5e;
+  background: #06437f;
   color: #ffffff;
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.05);
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.1);
@@ -1354,7 +1354,7 @@ ul.uk-nav-sub {
 }
 .uk-nav-dropdown > li > a:hover,
 .uk-nav-dropdown > li > a:focus {
-  background: #3e5e5e;
+  background: #06437f;
   color: #ffffff;
   outline: none;
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.05);
@@ -1377,7 +1377,7 @@ ul.uk-nav-sub {
 }
 .uk-nav-navbar > li > a:hover,
 .uk-nav-navbar > li > a:focus {
-  background: #3e5e5e;
+  background: #06437f;
   color: #ffffff;
   outline: none;
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.05);
@@ -1681,7 +1681,7 @@ html:not(.uk-touch) .uk-nav-offcanvas ul a:hover {
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15);
 }
 .uk-subnav-pill > .uk-active > * {
-  background: #3e5e5e;
+  background: #06437f;
   color: #ffffff;
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.05);
 }
@@ -1765,7 +1765,7 @@ html:not(.uk-touch) .uk-nav-offcanvas ul a:hover {
   color: #062243;
 }
 .uk-pagination > .uk-active > span {
-  background: #3e5e5e;
+  background: #06437f;
   color: #ffffff;
   border-color: transparent;
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.05);
@@ -2529,7 +2529,7 @@ select.uk-form-width-mini {
   color: #062243;
 }
 .uk-button-primary {
-  background-color: #3e5e5e;
+  background-color: #06437f;
   color: #ffffff;
 }
 .uk-button-primary:hover,
@@ -4712,7 +4712,7 @@ select.uk-form-width-mini {
 .uk-badge {
   display: inline-block;
   padding: 0 5px;
-  background: #3e5e5e;
+  background: #06437f;
   font-size: 10px;
   font-weight: bold;
   line-height: 14px;
@@ -6835,7 +6835,7 @@ a.uk-thumbnail:focus {
   color: #444444;
 }
 .uk-contrast .uk-button-primary {
-  background-color: #3e5e5e;
+  background-color: #06437f;
   color: #ffffff;
 }
 .uk-contrast .uk-button-primary:hover,
@@ -7192,7 +7192,7 @@ a.uk-thumbnail:focus {
 .uk-progress-bar {
   width: 0;
   height: 100%;
-  background: #3e5e5e;
+  background: #06437f;
   float: left;
   -webkit-transition: width 0.6s ease;
   transition: width 0.6s ease;
@@ -7281,7 +7281,7 @@ a.uk-thumbnail:focus {
   color: #062243;
 }
 .uk-nav-autocomplete > li.uk-active > a {
-  background: #3e5e5e;
+  background: #06437f;
   color: #ffffff;
   outline: none;
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.05);
@@ -7374,7 +7374,7 @@ a.uk-datepicker-table-muted {
   color: #062243;
 }
 .uk-datepicker-table a.uk-active {
-  background: #3e5e5e;
+  background: #06437f;
   color: #ffffff;
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.05);
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.1);
@@ -7782,7 +7782,7 @@ a.uk-datepicker-table-muted {
   color: #062243;
 }
 .uk-nav-search > li.uk-active > a {
-  background: #3e5e5e;
+  background: #06437f;
   color: #ffffff;
   outline: none;
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.05);
